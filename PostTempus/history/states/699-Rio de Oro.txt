@@ -6,7 +6,8 @@ state={
 	state_category = wasteland
 
 	history={
-		
+		owner = SPN
+		add_core = SPN
 		
 		buildings = {
 			infrastructure = 1

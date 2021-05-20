@@ -7,7 +7,8 @@ state={
 	state_category = large_town
 
 	history={
-		
+		owner = SPN
+		add_core = SPN
 		victory_points = {
 			6906 10
 		}

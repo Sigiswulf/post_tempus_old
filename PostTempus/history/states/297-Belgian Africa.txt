@@ -9,7 +9,8 @@ state=
 	history=
 	{
 		
-		
+		owner = SPN
+		add_core = SPN
 		victory_points = {
 			1903 1 
 		}

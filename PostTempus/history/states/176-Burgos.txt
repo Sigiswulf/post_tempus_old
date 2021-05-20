@@ -3,7 +3,8 @@ state={
 	name="STATE_176"
 
 	history={
-		
+		owner = SPN
+		add_core = SPN
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1

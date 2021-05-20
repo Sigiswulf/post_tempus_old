@@ -6,7 +6,8 @@ state={
 		tungsten=10.000 #added due to Portugal Setup
 	}
 	history={
-		
+		owner = SPN
+		add_core = SPN
 		victory_points = {
 			3874 1 
 		}
