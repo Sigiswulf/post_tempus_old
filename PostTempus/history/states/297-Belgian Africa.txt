@@ -2,7 +2,7 @@ state=
 {
 	id=297
 	name="STATE_297" # Equatorial Guinea
-	manpower = 185000
+	manpower = 2555707
 	
 	state_category = enclave
 	
@@ -10,7 +10,7 @@ state=
 	{
 		
 		owner = SPN
-		add_core = SPN
+		add_core_of = SPN
 		victory_points = {
 			1903 1 
 		}

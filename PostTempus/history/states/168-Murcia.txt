@@ -4,7 +4,7 @@ state={
 
 	history={
 		owner = SPN
-		add_core = SPN
+		add_core_of = SPN
 		victory_points = {
 			10024 3
 		}

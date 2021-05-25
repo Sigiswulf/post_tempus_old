@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = PRT
-		add_core = PRT
+		add_core_of = PRT
 		victory_points = {
 			11805 20 
 		}
@@ -31,7 +31,7 @@ state={
 	provinces={
 		799 3798 3861 6924 11805 
 	}
-	manpower=1995800
+	manpower=798950
 	buildings_max_level_factor=1.000
 	state_category=city
 }

@@ -6,7 +6,7 @@ state={
 
 	history={
 		owner = SPN
-		add_core = PRT
+		add_core_of = PRT
 		buildings = {
 			infrastructure = 2
 			13015 ={

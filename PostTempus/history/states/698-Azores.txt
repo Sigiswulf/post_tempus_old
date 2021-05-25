@@ -1,13 +1,13 @@
 state={
 	id=698
 	name="STATE_698"
-	manpower = 212012
+	manpower =  215172
 	
 	state_category = small_island
 	
 	history={
 		owner = SPN
-		add_core = PRT
+		add_core_of = PRT
 		victory_points = {
 			1751 3 
 		}

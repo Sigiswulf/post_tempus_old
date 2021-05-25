@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = NAV
-		add_core = NAV
+		add_core_of = NAV
 		victory_points = {
 			9710 3 
 		}
