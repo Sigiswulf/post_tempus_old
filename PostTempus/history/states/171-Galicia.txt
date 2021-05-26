@@ -9,6 +9,7 @@ state={
 	history={
 		
 		owner = SPN
+		add_core_of = GAL
 		add_core_of = SPN
 		victory_points = {
 			758 5
