@@ -4,12 +4,12 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2003.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "SPA"
+		default_country = "SPN"
 		default = yes
 		
-		"SPA"={
+		"SPN"={
 			history = "SPR_GATHERING_STORM_DESC"
-			ideology = fascist
+			ideology = fascism
 			ideas = {
 				
 			}
