@@ -60,9 +60,9 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 93
+	liberalism = 93
 	fascism = 3
-	communism = 4
+	liberal_socialism = 4
 }
 
 create_country_leader = {
@@ -76,14 +76,14 @@ create_country_leader = {
 	name = "Alfonso Daniel Castelao"
 	picture = "gfx//leaders//Europe//portrait_europe_generic_5.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = social_liberalism
 }
 
 create_country_leader = {
 	name = "Vicente Martínez Risco"
 	picture = "gfx//leaders//Europe//portrait_europe_generic_land_13.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = falangism
 }
 
 create_country_leader = {

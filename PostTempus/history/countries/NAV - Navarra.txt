@@ -60,10 +60,11 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 46
+	conservatism = 36
 	fascism = 60
-	communism = 4
+	liberal_socialism = 4
 }
+
 
 create_country_leader = {
 	name = "Ramón Ormazábal Tife"

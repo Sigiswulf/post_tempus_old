@@ -26,14 +26,14 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 46
+	conservatism = 36
 	fascism = 60
-	communism = 4
+	liberal_socialism = 4
 }
 
 create_country_leader = {
 	name = "Alfonso Pardo"
 	picture = "gfx/leaders/SPA/Alfonso_Pardo.dds"
 	expire = "2020.1.1"
-	ideology = fascism_ideology
+	ideology = falangism
 }

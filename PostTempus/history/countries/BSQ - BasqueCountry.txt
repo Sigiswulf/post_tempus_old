@@ -60,28 +60,28 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 46
-	fascism = 60
-	communism = 4
+	conservatism = 50
+	fascism = 46
+	authoritarian_socialism = 4
 }
 
 create_country_leader = {
 	name = "Ramón Ormazábal Tife"
 	picture = "gfx//leaders//Europe//Portrait_Europe_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = marxist_leninism
 }
 
 create_country_leader = {
 	name = "Luis Urrengoetxea"
 	picture = "gfx//leaders//Europe//portrait_europe_generic_4.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = falangism
 }
 
 create_country_leader = {
 	name = "Carlos Gariako"
 	picture = "gfx/leaders/SPA/Carlos_Gariako.dds"
 	expire = "2020.1.1"
-	ideology = fascism_ideology
+	ideology = reactionary
 }

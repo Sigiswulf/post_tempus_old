@@ -66,9 +66,8 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 22
+	conservatism = 24
 	fascism = 76
-	communism = 2
 }
 
 set_convoys = 150
@@ -104,7 +103,7 @@ if = {
 		desc = "POLITICS_FRANCISCO_FRANCO_DESC"
 		picture = "gfx/leaders/SPA/Antonio_Tejero.dds"
 		expire = "2020.1.1"
-		ideology = fascism_ideology
+		ideology = falangism
 		traits = { }
 
 ### VARIANTS ###

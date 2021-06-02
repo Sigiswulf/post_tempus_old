@@ -56,9 +56,10 @@ set_politics = {
 }
 set_popularities = {
 	fascism = 60
-	communism = 10
-	neutrality = 20
-	democratic = 10
+	liberal_socialism = 10
+	authoritarian_democracy = 10
+	despotism = 10
+	conservatism = 10
 }
 
 set_convoys = 100
@@ -69,7 +70,7 @@ set_stability = 0.75
 		desc = "POLITICS_FRANSISCO_BARCELOS_ROLAO_PRETO_DESC"
 		picture = "gfx/leaders/SPA/Antonio_Spinala.dds"
 		expire = "2020.1.1"
-		ideology = fascism_ideology
+		ideology = falangism
 		traits = {
 			#
 		}
