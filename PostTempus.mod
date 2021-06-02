@@ -10,6 +10,11 @@ tags={
 	"Ideologies"
 	"National Focuses"
 }
+replace_path="history/states"
+replace_path="gfx/loadingscreens"
+replace_path="map/strategicregions"
+replace_path="history/units"
+replace_path="common/ideologies"
 name="Post Tempus"
 supported_version="1.10.5"
 path="mod/PostTempus"
